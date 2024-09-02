@@ -1,7 +1,7 @@
 export const dummyTasks = [
     {
       id: 't1',
-      userId: 'u1',
+      userId : 'u1',
       title: 'Master Angular',
       summary:
         'Learn all the basic and advanced features of Angular & how to apply them.',
